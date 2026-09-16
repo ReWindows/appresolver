@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "appresolver.dll",
+  "latest": "584060908-CE07A55333478837A4F28DA169A58C89-1",
+  "builds": [
+    {
+      "key": "584060908-CE07A55333478837A4F28DA169A58C89-1",
+      "timestamp": "584060908",
+      "pdb_guid": "CE07A55333478837A4F28DA169A58C89",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/584060908-CE07A55333478837A4F28DA169A58C89-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
